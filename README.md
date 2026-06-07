@@ -46,35 +46,46 @@ In the App was used Retrofit2,YoutubeApi,SharedPreferences,LottieAnimations and 
 <p align="center">
   <img src="https://github.com/DiyorbekJDK/AlanProCactusApp.V-2/assets/113772715/161bf54e-f96c-4d94-bd7f-f6cc5f072b41" alt="Light & Dark Mode" width="800">
 </p>
----
+
 
 ## 📁 Project Structure
+
+```bash
 app/
 ├── src/main/java/com/example/alaproapp/
-│   ├── activity/           # Main activities
-│   ├── fragments/          # UI fragments
-│   ├── adapter/            # RecyclerView adapters
-│   ├── model/              # Data models
-│   ├── network/            # Retrofit setup + API service
-│   ├── utils/              # Helper classes
-│   └── sharedPreferenceManager/
-├── res/
-│   ├── layout/             # XML layouts
-│   ├── drawable/           # Icons and images
-│   └── animation/          # Lottie JSON files
+│   ├── activity/                 # Main Activities
+│   ├── fragments/                # UI Fragments
+│   ├── adapter/                  # RecyclerView Adapters
+│   ├── model/                    # Data Models
+│   ├── network/                  # Retrofit + API Service
+│   ├── utils/                    # Helper classes
+│   └── sharedPreferenceManager/  # SharedPreferences Manager
+├── src/main/res/
+│   ├── layout/                   # XML Layouts
+│   ├── drawable/                 # Icons & Images
+│   └── animation/                # Lottie JSON files
 └── AndroidManifest.xml
+
+```
 
 ---
 
 ## 📌 Roadmap
-*Push notifications for new videos
-*Publish to Google Play Store
+
+- [ ] Video & audio downloading
+- [ ] Offline mode with caching
+- [ ] Search within the channel
+- [ ] Push notifications for new videos
+- [ ] Multi-language support
+- [ ] Publish to Google Play Store
 
 ---
 
-##🤝 Contributing
-Contributions, issues, and feature requests are welcome!
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
 Feel free to fork the project and submit a Pull Request.
 
-##📄 License
-This project is licensed under the MIT License — see the LICENSE file for details.
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.

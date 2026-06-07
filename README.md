@@ -72,7 +72,6 @@ app/
 
 ## 📌 Roadmap
 
-- [ ] Video & audio downloading
 - [ ] Offline mode with caching
 - [ ] Search within the channel
 - [ ] Push notifications for new videos

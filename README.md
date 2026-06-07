@@ -44,14 +44,33 @@ In the App was used Retrofit2,YoutubeApi,SharedPreferences,LottieAnimations and 
 </p>
 ---
 
-## 🚀 Getting Started
+## 📁 Project Structure
+app/
+├── src/main/java/com/example/alaproapp/
+│   ├── activity/           # Main activities
+│   ├── fragments/          # UI fragments
+│   ├── adapter/            # RecyclerView adapters
+│   ├── model/              # Data models
+│   ├── network/            # Retrofit setup + API service
+│   ├── utils/              # Helper classes
+│   └── sharedPreferenceManager/
+├── res/
+│   ├── layout/             # XML layouts
+│   ├── drawable/           # Icons and images
+│   └── animation/          # Lottie JSON files
+└── AndroidManifest.xml
 
-### Prerequisites
-- Android Studio (latest version recommended)
-- Android device or emulator (Android 8.0+)
+---
 
-### Installation
+## 📌 Roadmap
+*Push notifications for new videos
+*Publish to Google Play Store
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/DiyorbekJDK/AlanProCactusApp.V-2.git
+---
+
+##🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the project and submit a Pull Request.
+
+##📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.

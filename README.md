@@ -7,6 +7,10 @@ In the App was used Retrofit2,YoutubeApi,SharedPreferences,LottieAnimations and 
 # AlanProCactusApp.V-2
 
 <!-- ![App Preview](https://github.com/DiyorbekJDK/AlanProCactusApp.V-2/assets/113772715/161bf54e-f96c-4d94-bd7f-f6cc5f072b41) -->
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube%20API-v3-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **Modern Android client** for the YouTube channel **Alan Pro Cactus** with beautiful Light and Dark themes.
 

@@ -6,7 +6,7 @@ In the App was used Retrofit2,YoutubeApi,SharedPreferences,LottieAnimations and 
 -->
 # AlanProCactusApp.V-2
 
-![App Preview](https://github.com/DiyorbekJDK/AlanProCactusApp.V-2/assets/113772715/161bf54e-f96c-4d94-bd7f-f6cc5f072b41)
+<!-- ![App Preview](https://github.com/DiyorbekJDK/AlanProCactusApp.V-2/assets/113772715/161bf54e-f96c-4d94-bd7f-f6cc5f072b41) -->
 
 **Modern Android client** for the YouTube channel **Alan Pro Cactus** with beautiful Light and Dark themes.
 
@@ -42,9 +42,6 @@ In the App was used Retrofit2,YoutubeApi,SharedPreferences,LottieAnimations and 
 <p align="center">
   <img src="https://github.com/DiyorbekJDK/AlanProCactusApp.V-2/assets/113772715/161bf54e-f96c-4d94-bd7f-f6cc5f072b41" alt="Light & Dark Mode" width="800">
 </p>
-
-*(Add more screenshots here — Main screen, Video Player, Splash Screen, etc.)*
-
 ---
 
 ## 🚀 Getting Started
